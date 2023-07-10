@@ -34,7 +34,7 @@
 
 
 # Schedule
-![Schedule](./photos/agenda/Conference Schedule-1.pdf)
+![Schedule](./photos/agenda/Conference Schedule-1.jpg)
 
 # Abstract Book
 <a href="./photos/agenda/Abstracts book.pdf">Download Book</a>
