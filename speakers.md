@@ -177,6 +177,7 @@
 
 ## <span style="color:black"> **Leo Giloni** </span>
 ### M.Sc student, Professor Oz Gazit, Technion
+<img src="./photos/SpeakersPhotos/nophoto.jpg" alt="Leo Giloni"  width="160" height="160">
 <hr/>
 
 
