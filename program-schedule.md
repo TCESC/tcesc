@@ -41,4 +41,4 @@
 
 
 
-<a href="./photos/agenda/TCESC 2023 Schedule.jpg">Download Schedule</a>
+<a href="./photos/agenda/Conference Schedule-1.pdf">Download Schedule</a>
