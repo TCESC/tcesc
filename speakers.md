@@ -42,12 +42,12 @@
 <hr/>
 
 ## <span style="color:black"> **Thomas Little** </span>
-### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
+### Ph.D. student, Professor Juliane Nguyen, North Carolina at Chapel Hill
 <img src="./photos/SpeakersPhotos/nophoto.jpg" alt="Thomas Little"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Melissa Bodine** </span>
-### PhD student, Professor Jeffry Ealm, Argonne National Laboratory
+### Ph.D. student, Professor Jeffry Ealm, Argonne National Laboratory
 <img src="./photos/SpeakersPhotos/Melissa Bodine.jpg" alt="Melissa Bodine"  width="160" height="160">
 <hr/>
 
@@ -97,10 +97,10 @@
 <img src="./photos/SpeakersPhotos/Gal Chen.jpg" alt="Gal Chen Palachy" width="160" height="160">
 <hr/>
 
-## <span style="color:black"> **Calvin Pieters** </span>
-### Ph.D. student, Professor Alon Grinberg Dana, Chemical engineering faculty, Technion
+## <span style="color:black"> **Kfir Kaplan** </span>
+### MS.c. student, Professor Alon Grinberg Dana, Chemical engineering faculty, Technion
 ### Automated rate calculator (ARC): A tool for automated ab-inito kinetics computations
-<img src="./photos/SpeakersPhotos/nophoto.jpg" alt="Calvin Pieters"  width="160" height="160">
+<img src="./photos/SpeakersPhotos/Kfir Kaplan.jpg" alt="Kfir Kaplan"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Michal Levin** </span>
@@ -143,7 +143,7 @@
 
 
 ## <span style="color:black"> **Yaniv Farkash** </span>
-### M.Sc student, Professor Gideon Grader, Technion
+### M.Sc. student, Professor Gideon Grader, Technion
 <img src="./photos/SpeakersPhotos/Yaniv Farkash.jpg" alt="Yaniv Farkash"  width="160" height="160">
 <hr/>
 
