@@ -64,11 +64,15 @@ If you have any questions or comments, please do not hesitate to [contact us](ma
 <a href="https://chemeng.technion.ac.il/">About Chemical Engineering Department</a>
 
 ## Sponsers
-The Wolfson Department of Chemical Engineering: <img src="./photos/sponsors/En logo.png" alt="Wolfson Department of Chemical Engineering" width="160" height="90">
+Our conference was generously sponsored by:
 
-The Technion, Israel Institute of Technology: <img src="./photos/sponsors/technion-logo-EDE9469AD7-seeklogo.com.png" alt="Technion IIT" width="160" height="64">
+* The Wolfson Department of Chemical Engineering: <img src="./photos/sponsors/En logo.png" alt="Wolfson Department of Chemical Engineering" width="160" height="90">
 
-VST- Innovative Vacuum Technology: <img src="./photos/sponsors/vst.jpeg" alt="vst" width="80">
+* The Technion, Israel Institute of Technology: <img src="./photos/sponsors/technion-logo-EDE9469AD7-seeklogo.com.png" alt="Technion IIT" width="160" height="64">
 
-Labotal: <img src="./photos/sponsors/lebotal.jpg" alt="Labotal" width="80">
+* The Israel Institute of Chemical Engineers: <img src="./photos/sponsors/IICHE.jpg" alt="IICHE" width="120" height="120">
+
+* VST- Innovative Vacuum Technology: <img src="./photos/sponsors/vst.jpeg" alt="vst" width="80">
+
+* Labotal: <img src="./photos/sponsors/lebotal.jpg" alt="Labotal" width="80">
 
