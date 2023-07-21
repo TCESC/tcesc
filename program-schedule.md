@@ -42,3 +42,6 @@
 
 
 <a href="./photos/agenda/Conference Schedule-1.pdf">Download Schedule</a>
+
+<a href="./photos/agenda/Posters_Abstracts book.pdf">Poster Abstracts Book</a>
+
