@@ -34,14 +34,14 @@
 
 
 # Schedule
-![Schedule](./photos/agenda/Conference Schedule-1.jpg)
+![Schedule](./photos/agenda/Conference Schedule.jpg)
 
 # Abstract Book
 <a href="./photos/agenda/Abstracts book.pdf">Download Book</a>
 
 
 
-<a href="./photos/agenda/Conference Schedule-1.pdf">Download Schedule</a>
+<a href="./photos/agenda/Conference Schedule.pdf">Download Schedule</a>
 
 <a href="./photos/agenda/Posters_Abstracts book.pdf">Poster Abstracts Book</a>
 
